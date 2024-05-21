@@ -1,6 +1,7 @@
 DRAGON BALL LEGENDS - Modelagem Banco de Dados
 
 Esta modelagem do jogo mobile Dragon Ball Legends foi feita como um trabalho final da disciplina "Fundamentos de Bancos de Dados" da UFRGS, feita de Outubro de 2023 a Fevereiro de 2024.
+
 A modelagem foi separada em diversos arquivos diferentes, logo abaixo haverá  um resumo breve sobre o que cada arquivo aborda:
 
 1) "Universo de Discurso.md" ---> Documento que discute a respeito do jogo mobile "Dragon Ball Legends", o que foi simplificado e o que foi ignorado na modelagem, bem como uma explicação sobre o próprio jogo
