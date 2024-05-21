@@ -1,2 +1,2 @@
-# Banco-de-Dados--Dragon-Ball-Legends
-Criação de um Banco de Dados relacional sobre o jogo mobile "Dragon Ball Legends". Com descrições sobre o jogo, o que foi feito na modelagem e na criação dos bancos de dados, bem como a própria  modelagem e o banco de dados
+# Dragon Ball Legends - Banco de Dados
+  Modelagem sobre um jogo mobile chamado "Dragon Ball Legends". A modelagem foi feita em diferentes etapas, a primeira etapa foi transformar o conceito do jogo em um diagrama entidade-relacionamento, a segunda etapa foi transformar este diagrama em um esquema relacional, e por fim, transformar o esquema relacional em um banco de dados a partir de um script SQL e com isso realizar algumas consultas. Cada etapa possuí seus documentos próprios explicando as decisões feitas.
